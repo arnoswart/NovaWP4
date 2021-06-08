@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2020-03-26 18:28:27
+[georeference]
+nrows=400
+ncols=400
+xmin=-10
+ymin=35
+xmax=5
+ymax=44
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=7
+bandorder=BIL
+minvalue=3.15012798395263:3.15012798395263:-0.0431086262734209:6.76399263663793:0.462017238140106:1015.64715390246:145.539729126876
+maxvalue=19.9343100924244:19.9343100924244:15.9612766547338:25.9908634203224:4.3577240468247:1023.33966023667:237.614275184193
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=Mean_temp_2011_2016.1:Mean_temp_2011_2016.2:Min_temp_2011_2016:Max_temp_2011_2016:Prec_2011_2016:Press_2011_2016:Rad_2011_2016
